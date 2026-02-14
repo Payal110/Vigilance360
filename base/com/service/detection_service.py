@@ -17,7 +17,6 @@ import os
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-
 def start_timer():
     return time.time()
 
